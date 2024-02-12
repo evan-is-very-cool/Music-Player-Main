@@ -6,4 +6,4 @@ Music-Player-Project
 [ ] Buttons
 [ ] Button Functions
 [ ] Music Implementation
-[ ] Test
+[ ] Music Player Test
