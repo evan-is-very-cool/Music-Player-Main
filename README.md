@@ -1,6 +1,6 @@
 # Music-Player-Main
 The main Project
 
-* [] childTemplate.html
+* [x] childTemplate.html
 * [] index.html
 * [] developer.html
